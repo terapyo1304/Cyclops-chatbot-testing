@@ -23,5 +23,4 @@ streamlit-chat==0.1.1
 tokenizers==0.19.1
 tqdm==4.66.1
 transformers==4.43.3
-ubuntu-advantage-tools==8001
 utils==1.0.2
