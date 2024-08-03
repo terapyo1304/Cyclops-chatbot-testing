@@ -25,3 +25,4 @@ tqdm==4.66.1
 transformers==4.43.3
 utils==1.0.2
 sentence_transformers
+pypdf
